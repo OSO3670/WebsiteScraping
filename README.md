@@ -1,5 +1,6 @@
-# LOCATING THE MALLS NEAR ME
-You can easily track my daily schedule or moves, one of the things in the loop is visiting the mall. I
+# LOCATING THE GROCERY STORES NEAR AMES, IOWA.
+
+You can easily track my daily schedule or moves, one of the things in the loop is visiting the groceries store. I
 came into Iowa State just about a month ago, one of the few things I wanted to check out or know
 about is where the credible malls to get necessities are located. My flat mate introduced me to
 Walmart, it is pretty far, my thought was that, it is the only credible mall here. Later on, I realized
