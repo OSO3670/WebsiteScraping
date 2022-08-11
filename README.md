@@ -6,7 +6,8 @@ Walmart, it is pretty far, my thought was that, it is the only credible mall her
 there are host of other malls. That may be a good thing to dive into for this case study, knowing all
 the malls near me. So I used the API from the google earth and used that to extract the malls
 within a particular radius near me.
-##Retrieving your API
+
+## Retrieving your API
 
 One of the major step into achieving this is creating your API from this website
 https://console.cloud.google.com/ (https://console.cloud.google.com/) , after you have done that,
