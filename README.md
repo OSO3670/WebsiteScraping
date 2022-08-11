@@ -15,3 +15,39 @@ you may need to activate it by creating a suitable project and add an API, add y
 where necessary, it may also need your billing account, include your card details, the service is
 completely free, so nothing should happen to the liquid in your bank account, however, if you still
 feel insecure, remove your card details when you are done with the project.
+
+## Choosing your coordinate, keyword and radius
+
+Your location would determine the coordinate, you will work with.Choose the coordinates, you want
+to work with, pick a suitable one and, assign a keyword as well, in my case, it is the ‘mall’, choose
+a suitable radius.
+
+## Documentation
+
+The documentation would really help you in extracting the right format for extracting the url and the
+api call. Here is the website https://developers.google.com/maps/documentation/
+(https://developers.google.com/maps/documentation/) Check out the documentations, use this website to get the details of your place, geocoding and there valuable examples in there to guide you. From the documentation, you will know how to get the right url, The request would help extract the
+details in the url, the json would load them in as text.
+
+## Printing the location of the malls
+
+You will need to assign a variable to each of the key containing the values. The ones we are using
+is the name, place_id, lat, lng, rating, types and vicinity.
+Google earth doesn't allow you to scrape more than 20 places per page, but updated the
+documentation which allows you se the next page token but still would not exceed 60 places.
+
+## Visualizing the points on the open street map
+
+You can visualize the location of the malls on the open street map using mapbox, assigning the
+latitude and longitude based on what is available on the data generated.
+
+## Exporting to excel
+After you have gotten the list of the mall that are available, what you can do, is to export them to
+the excel so that they are well documented
+
+## Conclusion
+
+One of the challenge is with picking shorter radius, it didn't allow since there are limited data for
+that, from the list of 60 malls after extending the radius, there are places located in Des_Moine in
+the list, infact, those in Ames is just about one-third of the list
+
